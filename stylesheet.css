@@ -1,3 +1,7 @@
+html {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif !important;
+}
+
 .bg-header {
     background-color: #ffffff !important;
 }
@@ -5,12 +9,22 @@
 .header-h1 {
     color: #ffffff !important;
     background-color: #4aaaa5 !important;
+    font-family: 'Georgia', Times, 'Times New Roman', serif !important;
 }
 
 .link-color {
     color: #777777 !important;
 }
 
+a {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif !important;
+}
+
+
 a:hover {
     color: black !important;
+}
+
+#matt {
+    color: #777777 !important;
 }
