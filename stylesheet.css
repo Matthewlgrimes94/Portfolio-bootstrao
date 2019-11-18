@@ -10,3 +10,7 @@
 .link-color {
     color: #777777 !important;
 }
+
+a:hover {
+    color: black !important;
+}
