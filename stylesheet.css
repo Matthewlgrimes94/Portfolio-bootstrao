@@ -25,6 +25,17 @@ a:hover {
     color: black !important;
 }
 
-#matt {
-    color: #777777 !important;
+#aboutMe {
+    font-family: 'Georgia', Times, 'Times New Roman', serif !important;
+    color: #4aaaa5 !important;
+}
+
+.bg-footer {
+    background-color: #666666 !important;
+    border-top: 8px solid #4aaaa5 !important;
+}
+
+.footer {
+    color: white !important;
+    font-size: small !important;
 }
