@@ -2,6 +2,8 @@ html {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif !important;
 }
 
+/* Header colors and fonts */
+
 .bg-header {
     background-color: #ffffff !important;
 }
@@ -11,6 +13,8 @@ html {
     background-color: #4aaaa5 !important;
     font-family: 'Georgia', Times, 'Times New Roman', serif !important;
 }
+
+/* Link color and font tweaks */
 
 .link-color {
     color: #777777 !important;
@@ -25,17 +29,41 @@ a:hover {
     color: black !important;
 }
 
+/* Body Header */
+
 #aboutMe {
     font-family: 'Georgia', Times, 'Times New Roman', serif !important;
     color: #4aaaa5 !important;
 }
 
-.bg-footer {
+.all-content {
+    min-height: 100vh;
+    padding: 0;
+    margin: 0;
+}
+/* Picture captions */
+
+.caption {
+    position: absolute !important;
+    bottom: 15% !important;
+    left: 6.5% !important;
+    width: 85%;
+    background-color: #4aaaa5 !important;
+    text-align: center !important;
+    padding-top: 5% !important;
+    color: white !important;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif !important;
+}
+
+/* footer */
+.footer {
+    color: white !important;
+    font-size: small !important;
     background-color: #666666 !important;
     border-top: 8px solid #4aaaa5 !important;
 }
 
-.footer {
-    color: white !important;
-    font-size: small !important;
+.footer p {
+    text-align: center !important;
+    margin: 0;
 }
