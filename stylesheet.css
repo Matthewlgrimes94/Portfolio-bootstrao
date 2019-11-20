@@ -43,14 +43,18 @@ a:hover {
 }
 /* Picture captions */
 
+.caption-holder {
+    margin: 0 auto;
+    width: 200px;
+}
+
 .caption {
-    position: absolute !important;
-    bottom: 15% !important;
-    left: 6.5% !important;
-    width: 85%;
+    position: absolute;
+    bottom: 10%;
+    width: 200px;
+    padding: 2% 0;
     background-color: #4aaaa5 !important;
     text-align: center !important;
-    padding-top: 5% !important;
     color: white !important;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif !important;
 }
