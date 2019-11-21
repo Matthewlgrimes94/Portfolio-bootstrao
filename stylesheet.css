@@ -31,9 +31,21 @@ a:hover {
 
 /* Body Header */
 
+body {
+    background-image: url(/assets/images/criss-cross.png);
+}
+
+.bg-white {
+    background-color: white;
+}
+
 #aboutMe {
     font-family: 'Georgia', Times, 'Times New Roman', serif !important;
     color: #4aaaa5 !important;
+}
+
+#about-info {
+    line-height: 2;
 }
 
 .all-content {
@@ -41,6 +53,37 @@ a:hover {
     padding: 0;
     margin: 0;
 }
+
+.hover {
+    transition: .5s;
+    width: 200px;
+    margin: 0 auto;
+}
+
+.hover:hover {
+    transform: translateY(-10px);
+    transition: 0.3s;
+    transition-timing-function: ease-out;
+    box-shadow: 0  10px 25px rgba(191, 191, 191, 1);
+}
+
+/* Form CSS */
+
+input {
+    width: 100%;
+}
+
+textarea {
+    width: 100%;
+}
+
+#submit-button {
+    width: 10%;
+    background-color: #4aaaa5;
+    border: none;
+    color: white;
+}
+
 /* Picture captions */
 
 .caption-holder {
@@ -53,6 +96,7 @@ a:hover {
     bottom: 10%;
     width: 200px;
     padding: 2% 0;
+    margin: 0;
     background-color: #4aaaa5 !important;
     text-align: center !important;
     color: white !important;
@@ -65,9 +109,11 @@ a:hover {
     font-size: small !important;
     background-color: #666666 !important;
     border-top: 8px solid #4aaaa5 !important;
+    height: 10%;
 }
 
 .footer p {
     text-align: center !important;
     margin: 0;
+    padding: .5% 0;
 }
