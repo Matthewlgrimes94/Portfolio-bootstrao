@@ -18,15 +18,14 @@ Format: ![Alt Text](url)
 ![About Me](assets\images\screenshots\Screenshot (6).png)
 Format: ![Alt Text](url)
 
-
+I made some cool floating animations on the portfolio page! Try hovering over an image!
 
 
 Online resources used in this project -
 
 https://getbootstrap.com/docs/4.3/getting-started/introduction/
-
-
-
+https://www.w3schools.com/
+https://stackoverflow.com/
 
 fonts used in this project:
 
