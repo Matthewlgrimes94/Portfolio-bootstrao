@@ -15,7 +15,7 @@ Format: ![Alt Text](url)
 ![Portfolio Page](https://github.com/Matthewlgrimes94/Portfolio-bootstrao/blob/master/assets/images/screenshots/Screenshot%20(5).png)
 Format: ![Alt Text](url)
 
-![Contact Page](assets\images\screenshots\Screenshot (6).png)
+![Contact Page](https://github.com/Matthewlgrimes94/Portfolio-bootstrao/blob/master/assets/images/screenshots/Screenshot%20(6).png)
 Format: ![Alt Text](url)
 
 I made some cool floating animations on the portfolio page! Try hovering over an image!
