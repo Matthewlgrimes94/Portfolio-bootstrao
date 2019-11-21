@@ -10,13 +10,13 @@ Bootstrap was used to give the site a mobile first framework.
 Screenshots:
 
 ![About Me Page](https://github.com/Matthewlgrimes94/Portfolio-bootstrao/blob/master/assets/images/screenshots/Screenshot%20(4).png)
-Format: ![Alt Text](url)
+Format: ![About Me](url)
 
 ![Portfolio Page](https://github.com/Matthewlgrimes94/Portfolio-bootstrao/blob/master/assets/images/screenshots/Screenshot%20(5).png)
-Format: ![Alt Text](url)
+Format: ![Portfolio](url)
 
 ![Contact Page](https://github.com/Matthewlgrimes94/Portfolio-bootstrao/blob/master/assets/images/screenshots/Screenshot%20(6).png)
-Format: ![Alt Text](url)
+Format: ![Contact](url)
 
 I made some cool floating animations on the portfolio page! Try hovering over an image!
 
