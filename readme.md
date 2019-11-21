@@ -12,7 +12,7 @@ Screenshots:
 ![About Me Page](https://github.com/Matthewlgrimes94/Portfolio-bootstrao/blob/master/assets/images/screenshots/Screenshot%20(4).png)
 Format: ![Alt Text](url)
 
-![Portfolio Page](assets\images\screenshots\Screenshot (5).png)
+![Portfolio Page](https://github.com/Matthewlgrimes94/Portfolio-bootstrao/blob/master/assets/images/screenshots/Screenshot%20(5).png)
 Format: ![Alt Text](url)
 
 ![Contact Page](assets\images\screenshots\Screenshot (6).png)
